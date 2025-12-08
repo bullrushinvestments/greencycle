@@ -1,0 +1,37 @@
+{
+  "name": "GreenCycle",
+  "type": "ecommerce",
+  "description": "A subscription-based service that delivers curated eco-friendly products to businesses and individuals each month, aiming to reduce environmental impact through sustainable consumption.",
+  "generated_at": "2025-12-08T01:04:50.732038",
+  "components": [
+    "spec",
+    "build",
+    "deploy",
+    "spec_requirements",
+    "spec_architecture",
+    "build_code",
+    "build_test"
+  ],
+  "files_written": [
+    "businesses\\production_test\\ecommerce\\greencycle\\src\\components\\component.tsx",
+    "businesses\\production_test\\ecommerce\\greencycle\\__tests__\\component.test.tsx",
+    "businesses\\production_test\\ecommerce\\greencycle\\vercel.json",
+    "businesses\\production_test\\ecommerce\\greencycle\\src\\components\\requirements.tsx",
+    "businesses\\production_test\\ecommerce\\greencycle\\__tests__\\architecture.test.tsx",
+    "businesses\\production_test\\ecommerce\\greencycle\\vercel.json",
+    "businesses\\production_test\\ecommerce\\greencycle\\src\\components\\test.tsx",
+    "businesses\\production_test\\ecommerce\\greencycle\\src\\app\\layout.tsx",
+    "businesses\\production_test\\ecommerce\\greencycle\\src\\app\\globals.css",
+    "businesses\\production_test\\ecommerce\\greencycle\\src\\app\\page.tsx"
+  ],
+  "tasks_completed": 7,
+  "tasks_failed": 0,
+  "ap2_estimated_cost": 45.2,
+  "ap2_estimated_tokens": 19500,
+  "ap2_generation_approval": null,
+  "infrastructure_approvals": {
+    "analytics": null,
+    "database": null,
+    "storage": null
+  }
+}
